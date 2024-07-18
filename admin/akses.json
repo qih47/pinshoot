@@ -1,0 +1,552 @@
+[
+    {
+        "idPersonil": 2452,
+        "idLocker": 2,
+        "rfid": "0004467468"
+    },
+    {
+        "idPersonil": 1892,
+        "idLocker": 1,
+        "rfid": "0004448495"
+    },
+    {
+        "idPersonil": 2209,
+        "idLocker": 5,
+        "rfid": "0003142649"
+    },
+    {
+        "idPersonil": "1888",
+        "idLocker": "4",
+        "rfid": "0016409847"
+    },
+    {
+        "idPersonil": "1543",
+        "idLocker": "7",
+        "rfid": "0003081887"
+    },
+    {
+        "idPersonil": "1542",
+        "idLocker": "6",
+        "rfid": "0003136701"
+    },
+    {
+        "idPersonil": "1637",
+        "idLocker": "10",
+        "rfid": "0004452537"
+    },
+    {
+        "idPersonil": "1614",
+        "idLocker": "11",
+        "rfid": "0004449279"
+    },
+    {
+        "idPersonil": "1859",
+        "idLocker": "66",
+        "rfid": "0004446943"
+    },
+    {
+        "idPersonil": "763",
+        "idLocker": "11",
+        "rfid": "0004471008"
+    },
+    {
+        "idPersonil": "1870",
+        "idLocker": "11",
+        "rfid": "0004446169"
+    },
+    {
+        "idPersonil": "366",
+        "idLocker": "12",
+        "rfid": "0004453588"
+    },
+    {
+        "idPersonil": "401",
+        "idLocker": "13",
+        "rfid": "0004446251"
+    },
+    {
+        "idPersonil": "373",
+        "idLocker": "14",
+        "rfid": "0004465103"
+    },
+    {
+        "idPersonil": "405",
+        "idLocker": "15",
+        "rfid": "0004466417"
+    },
+    {
+        "idPersonil": "2371",
+        "idLocker": "16",
+        "rfid": "0005558623"
+    },
+    {
+        "idPersonil": "382",
+        "idLocker": "17",
+        "rfid": "0004471120"
+    },
+    {
+        "idPersonil": "1540",
+        "idLocker": "18",
+        "rfid": "0004457152"
+    },
+    {
+        "idPersonil": "386",
+        "idLocker": "19",
+        "rfid": "0004451661"
+    },
+    {
+        "idPersonil": "1792",
+        "idLocker": "20",
+        "rfid": "0004458542"
+    },
+    {
+        "idPersonil": "397",
+        "idLocker": "21",
+        "rfid": "0004466694"
+    },
+    {
+        "idPersonil": "400",
+        "idLocker": "22",
+        "rfid": "0004453339"
+    },
+    {
+        "idPersonil": "271",
+        "idLocker": "33",
+        "rfid": "0004472872"
+    },
+    {
+        "idPersonil": "312",
+        "idLocker": "24",
+        "rfid": "0004470723"
+    },
+    {
+        "idPersonil": "903",
+        "idLocker": "25",
+        "rfid": "0004458934"
+    },
+    {
+        "idPersonil": "251",
+        "idLocker": "26",
+        "rfid": "0004449506"
+    },
+    {
+        "idPersonil": "1905",
+        "idLocker": "27",
+        "rfid": "0004445381"
+    },
+    {
+        "idPersonil": "349",
+        "idLocker": "28",
+        "rfid": "0004461314"
+    },
+    {
+        "idPersonil": "841",
+        "idLocker": "29",
+        "rfid": "0004450840"
+    },
+    {
+        "idPersonil": "1460",
+        "idLocker": "30",
+        "rfid": "0004453014"
+    },
+    {
+        "idPersonil": "1459",
+        "idLocker": "31",
+        "rfid": "0004457712"
+    },
+    {
+        "idPersonil": "2199",
+        "idLocker": "32",
+        "rfid": "0004453922"
+    },
+    {
+        "idPersonil": "1667",
+        "idLocker": "33",
+        "rfid": "0001601794"
+    },
+    {
+        "idPersonil": "1564",
+        "idLocker": "34",
+        "rfid": "0004449252"
+    },
+    {
+        "idPersonil": "1974",
+        "idLocker": "35",
+        "rfid": "0004463882"
+    },
+    {
+        "idPersonil": "262",
+        "idLocker": "36",
+        "rfid": "0004448734"
+    },
+    {
+        "idPersonil": "1970",
+        "idLocker": "37",
+        "rfid": "0004449531"
+    },
+    {
+        "idPersonil": "1429",
+        "idLocker": "38",
+        "rfid": "0004470735"
+    },
+    {
+        "idPersonil": "638",
+        "idLocker": "39",
+        "rfid": "0004471739"
+    },
+    {
+        "idPersonil": "1461",
+        "idLocker": "40",
+        "rfid": "0004465963"
+    },
+    {
+        "idPersonil": "354",
+        "idLocker": "41",
+        "rfid": "0004445038"
+    },
+    {
+        "idPersonil": "2409",
+        "idLocker": "42",
+        "rfid": "0004465749"
+    },
+    {
+        "idPersonil": "1507",
+        "idLocker": "43",
+        "rfid": "0004453038"
+    },
+    {
+        "idPersonil": "Cari NPP atau NAMA PERSONIL",
+        "idLocker": "Pilih Nomor Locker",
+        "rfid": "0004472493"
+    },
+    {
+        "idPersonil": "43",
+        "idLocker": "45",
+        "rfid": "0004445348"
+    },
+    {
+        "idPersonil": "1506",
+        "idLocker": "44",
+        "rfid": "0004472493"
+    },
+    {
+        "idPersonil": "2447",
+        "idLocker": "46",
+        "rfid": "0005553860"
+    },
+    {
+        "idPersonil": "Cari NPP atau NAMA PERSONIL",
+        "idLocker": "47",
+        "rfid": "0004466324"
+    },
+    {
+        "idPersonil": "388",
+        "idLocker": "48",
+        "rfid": "0004471027"
+    },
+    {
+        "idPersonil": "2202",
+        "idLocker": "49",
+        "rfid": "0004470326"
+    },
+    {
+        "idPersonil": "1486",
+        "idLocker": "50",
+        "rfid": "0004448675"
+    },
+    {
+        "idPersonil": "848",
+        "idLocker": "51",
+        "rfid": "0004456269"
+    },
+    {
+        "idPersonil": "358",
+        "idLocker": "Pilih Nomor Locker",
+        "rfid": "0004448730"
+    },
+    {
+        "idPersonil": "1751",
+        "idLocker": "53",
+        "rfid": "0001968674"
+    },
+    {
+        "idPersonil": "696",
+        "idLocker": "54",
+        "rfid": "0004471964"
+    },
+    {
+        "idPersonil": "684",
+        "idLocker": "55",
+        "rfid": "0004453229"
+    },
+    {
+        "idPersonil": "247",
+        "idLocker": "56",
+        "rfid": "0004445893"
+    },
+    {
+        "idPersonil": "394",
+        "idLocker": "57",
+        "rfid": "0004455676"
+    },
+    {
+        "idPersonil": "369",
+        "idLocker": "58",
+        "rfid": "0004470819"
+    },
+    {
+        "idPersonil": "359",
+        "idLocker": "59",
+        "rfid": "0004468449"
+    },
+    {
+        "idPersonil": "381",
+        "idLocker": "60",
+        "rfid": "0004445500"
+    },
+    {
+        "idPersonil": "1015",
+        "idLocker": "47",
+        "rfid": "0004466324"
+    },
+    {
+        "idPersonil": "2197",
+        "idLocker": "61",
+        "rfid": "0004469490"
+    },
+    {
+        "idPersonil": "395",
+        "idLocker": "62",
+        "rfid": "0004467362"
+    },
+    {
+        "idPersonil": "378",
+        "idLocker": "63",
+        "rfid": "0004472015"
+    },
+    {
+        "idPersonil": "1806",
+        "idLocker": "64",
+        "rfid": "0004470390"
+    },
+    {
+        "idPersonil": "379",
+        "idLocker": "65",
+        "rfid": "0004454727"
+    },
+    {
+        "idPersonil": "Cari NPP atau NAMA PERSONIL",
+        "idLocker": "52",
+        "rfid": "0004448730"
+    },
+    {
+        "idPersonil": "358",
+        "idLocker": "52",
+        "rfid": "0004448730"
+    },
+    {
+        "idPersonil": "383",
+        "idLocker": "66",
+        "rfid": "0004455156"
+    },
+    {
+        "idPersonil": "2421",
+        "idLocker": "67",
+        "rfid": "0004471539"
+    },
+    {
+        "idPersonil": "663",
+        "idLocker": "68",
+        "rfid": "0004463236"
+    },
+    {
+        "idPersonil": "2432",
+        "idLocker": "69",
+        "rfid": "0004469491"
+    },
+    {
+        "idPersonil": "2433",
+        "idLocker": "70",
+        "rfid": "0004469297"
+    },
+    {
+        "idPersonil": "1485",
+        "idLocker": "71",
+        "rfid": "0004450826"
+    },
+    {
+        "idPersonil": "664",
+        "idLocker": "72",
+        "rfid": "0004450809"
+    },
+    {
+        "idPersonil": "605",
+        "idLocker": "73",
+        "rfid": "0004454571"
+    },
+    {
+        "idPersonil": "Cari NPP atau NAMA PERSONIL",
+        "idLocker": "74",
+        "rfid": "0004452278"
+    },
+    {
+        "idPersonil": "53",
+        "idLocker": "75",
+        "rfid": "0004468697"
+    },
+    {
+        "idPersonil": "1576",
+        "idLocker": "76",
+        "rfid": "0004468954"
+    },
+    {
+        "idPersonil": "2350",
+        "idLocker": "77",
+        "rfid": "0004445224"
+    },
+    {
+        "idPersonil": "1501",
+        "idLocker": "78",
+        "rfid": "0004449769"
+    },
+    {
+        "idPersonil": "1531",
+        "idLocker": "79",
+        "rfid": "0004469159"
+    },
+    {
+        "idPersonil": "2203",
+        "idLocker": "80",
+        "rfid": "0004465306"
+    },
+    {
+        "idPersonil": "2193",
+        "idLocker": "81",
+        "rfid": "0004454829"
+    },
+    {
+        "idPersonil": "2200",
+        "idLocker": "82",
+        "rfid": "0004458852"
+    },
+    {
+        "idPersonil": "2417",
+        "idLocker": "83",
+        "rfid": "0004469022"
+    },
+    {
+        "idPersonil": "1540",
+        "idLocker": "84",
+        "rfid": "0004454816"
+    },
+    {
+        "idPersonil": "1508",
+        "idLocker": "85",
+        "rfid": "0001890026"
+    },
+    {
+        "idPersonil": "77",
+        "idLocker": "52",
+        "rfid": "0007022429"
+    },
+    {
+        "idPersonil": "1642",
+        "idLocker": "86",
+        "rfid": "0006454336"
+    },
+    {
+        "idPersonil": "840",
+        "idLocker": "87",
+        "rfid": "0001888772"
+    },
+    {
+        "idPersonil": "1778",
+        "idLocker": "88",
+        "rfid": "0004457367"
+    },
+    {
+        "idPersonil": "1778",
+        "idLocker": "89",
+        "rfid": "0007185821"
+    },
+    {
+        "idPersonil": "1980",
+        "idLocker": "90",
+        "rfid": "0004469602"
+    },
+    {
+        "idPersonil": "2191",
+        "idLocker": "91",
+        "rfid": "0004449932"
+    },
+    {
+        "idPersonil": "2011",
+        "idLocker": "92",
+        "rfid": "0004471566"
+    },
+    {
+        "idPersonil": "2008",
+        "idLocker": "93",
+        "rfid": "0004445985"
+    },
+    {
+        "idPersonil": "1971",
+        "idLocker": "94",
+        "rfid": "0004467995"
+    },
+    {
+        "idPersonil": "1946",
+        "idLocker": "95",
+        "rfid": "0004452473"
+    },
+    {
+        "idPersonil": "893",
+        "idLocker": "96",
+        "rfid": "0005540381"
+    },
+    {
+        "idPersonil": "1972",
+        "idLocker": "97",
+        "rfid": "0004447908"
+    },
+    {
+        "idPersonil": "2165",
+        "idLocker": "98",
+        "rfid": "0004453915"
+    },
+    {
+        "idPersonil": "1935",
+        "idLocker": "99",
+        "rfid": "0004456884"
+    },
+    {
+        "idPersonil": "2154",
+        "idLocker": "100",
+        "rfid": "0004453546"
+    },
+    {
+        "idPersonil": "367",
+        "idLocker": "74",
+        "rfid": "0004452278"
+    },
+    {
+        "idPersonil": "1778",
+        "idLocker": "88",
+        "rfid": "0004457367"
+    },
+    {
+        "idPersonil": "2034",
+        "idLocker": "89",
+        "rfid": "0004469840"
+    },
+    {
+        "idPersonil": "1540",
+        "idLocker": "18",
+        "rfid": "0004457152"
+    },
+    {
+        "idPersonil": "1223",
+        "idLocker": "18",
+        "rfid": "0003085141"
+    }
+]
